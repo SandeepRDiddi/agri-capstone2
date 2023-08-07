@@ -4,12 +4,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Project Description](#project-description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -30,7 +25,7 @@ Agriculture has long been regarded as the primary provider of supplies to meet t
 It, therefore, makes it reasonable for Indian farming persons to be concerned about efficient and precise cultivation. In our nation, there are several methods for increasing crop profitability and improving crop quality to maintain economic growth in the agricultural sector. So, using a few of the most recent technological advancements, like machine learning, is one of the solutions for estimating the yields of crops in connection to meteorological and soil parameters related to farming in the field. Because meteorological circumstances are not as foreseeable as they were years before, it is evolving daily due to globalisation.
 
 In India, there are several soil varieties to choose from. Each soil category has unique characteristics, and each is ideal for a particular crop. The major goal of any crop yield-based study is to develop a suitable framework for identifying many different kinds of soil type information and crop suggestions. Machine learning approaches recognise varieties utilising different chemical markers, and suitable crops for the soil varieties are proposed utilising geographic features.
-![image](https://github.com/SandeepRDiddi/agri-capstone2/assets/16812994/dc4919f1-87b8-4077-9bc7-3ce6875c7b4f)
+
 
 
 
